@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch=".." review="" />
+  <default revision="master" remote="origin" sync-j="1" />
+  <project name="blake2b.git" path="blake2b" />
+  <project name="filetransfer.git" path="filetransfer" />
+  <project name="sshego.git" path="sshego" />
+</manifest>
