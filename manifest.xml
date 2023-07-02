@@ -2,7 +2,9 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="master" remote="origin" sync-j="1" />
+  <project name="bchan.git" path="bchan" />
   <project name="blake2b.git" path="blake2b" />
   <project name="filetransfer.git" path="filetransfer" />
+  <project name="idem.git" path="idem" />
   <project name="sshego.git" path="sshego" />
 </manifest>
